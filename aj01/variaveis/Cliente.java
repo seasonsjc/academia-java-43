@@ -38,7 +38,6 @@ class Cliente {
 
         String nome = "Bissolino";
 
-
         System.out.println (idade);
 
         System.out.println (valorTotalCompras);
